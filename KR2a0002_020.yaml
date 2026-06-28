@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2a0002/krp/v1/juan/20
+seq: 20
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0002_WYG_020-1a, image: WYG0245/WYG0245-0241a.png}
+body:
+  text: 史記集解卷二十二宋裴駰撰史記二十二漢興以來將相名臣年表第十漢興以來將相名臣年表第十史記集解卷二十二
+  hash: sha256:a65e0c57aeb88ec0fdbfda44966fbc141c06f9eee6d9938138eadbe1b0d2bd23
+metadata:
+  title: 史記集解
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:19.022709'
+  juan_title: 卷二十二
+  source:
+    repository: kanripo
+    path: KR2a0002/KR2a0002_020.txt
+hash: sha256:735b7bd6a95e4db9dce84f748776f6a349d09c350f5baac63882ab6bd0a7624c

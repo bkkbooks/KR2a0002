@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0002/WYG/v1/juan/20
+seq: 20
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0002_WYG_020-1a, image: WYG0245/WYG0245-0241a.png}
+body:
+  text: 史記集解卷二十二宋裴駰撰史記二十二漢興以來将相名臣年表第十漢興以來將相名臣年表第十史記集解卷二十二
+  hash: sha256:93ee7fc9192f2529fe24820adc2041b08da9e021242f1fbf6b83f1751ec9b7ca
+metadata:
+  title: 史記集解
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:19:19.022709'
+  source:
+    repository: kanripo
+    path: KR2a0002/KR2a0002_020.txt
+hash: sha256:86a9bd2a9b6bb6e2010cd9cca608d19769fcaf2050a70903d782367d2c705e85

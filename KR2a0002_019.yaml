@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2a0002/krp/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0002_WYG_019-1a, image: WYG0245/WYG0245-0230a.png}
+body:
+  text: 史記集解卷二十一宋裴駰撰史記二十一建元已來王子侯者年表第九制詔御史諸侯王或欲推私恩分子弟邑者令各條上朕且臨定其號名太史公曰盛哉天子之德一人有慶天下賴之史記集解卷二十一
+  hash: sha256:36cd2451c61b7c92f22aab80d920e6ceae872f695126b28e2bfd0e58728d0fbb
+metadata:
+  title: 史記集解
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:19.022709'
+  juan_title: 卷二十一
+  source:
+    repository: kanripo
+    path: KR2a0002/KR2a0002_019.txt
+hash: sha256:2dec0ef08d5e48ba93142dc33d744a3076e3de2120dfd7e3095765eed59e0be3
