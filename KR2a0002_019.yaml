@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2a0002_WYG_019-1a, image: WYG0245/WYG0245-0230a.png}
 body:
-  text: 史記集解卷二十一宋裴駰撰史記二十一建元已來王子侯者年表第九制詔御史諸侯王或欲推私恩分子弟邑者令各條上朕且臨定其號名太史公曰盛哉天子之徳一人有慶天下賴之史記集解卷二十一
-  hash: sha256:ead2a7430a14e348ae825e41166adabc98f7ae18a8f9e7cf41ae5873bfbb9821
+  text: 史記集解卷二十一宋裴駰撰史記二十一建元已來王子侯者年表第九制詔御史諸侯王或欲推私恩分子弟邑者令各條上朕且臨定其號名太史公曰盛哉天子之德一人有慶天下賴之史記集解卷二十一
+  hash: sha256:36cd2451c61b7c92f22aab80d920e6ceae872f695126b28e2bfd0e58728d0fbb
 metadata:
   title: 史記集解
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2a0002/KR2a0002_019.txt
-hash: sha256:fc389b1879281e2b77a0716539741113fab2778e2f1ecedff73db0f3cd53ab06
+hash: sha256:2dec0ef08d5e48ba93142dc33d744a3076e3de2120dfd7e3095765eed59e0be3
