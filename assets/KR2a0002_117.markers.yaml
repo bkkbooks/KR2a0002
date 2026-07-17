@@ -56,6 +56,7 @@ markers:
       ', id: KR2a0002_krp_117-bkkkrnewl11}
   - {type: line-break, offset: 117, content: '', id: KR2a0002_WYG_117-1b03}
   - {type: punctuation, offset: 137, content: (, id: KR2a0002_krp_117-bkkpn1}
+  - {type: voice, offset: 137, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 138, content: /, id: KR2a0002_krp_117-bkkpn2}
   - {type: punctuation, offset: 139, content: ), id: KR2a0002_krp_117-bkkpn3}
   - {type: 'kr:newline', offset: 139, content: '
@@ -115,6 +116,7 @@ markers:
       ', id: KR2a0002_krp_117-bkkkrnewl24}
   - {type: line-break, offset: 374, content: '', id: KR2a0002_WYG_117-2a07}
   - {type: punctuation, offset: 389, content: (, id: KR2a0002_krp_117-bkkpn7}
+  - {type: voice, offset: 389, length: 62, name: note, id: n2}
   - {type: punctuation, offset: 395, content: /, id: KR2a0002_krp_117-bkkpn8}
   - {type: punctuation, offset: 401, content: ), id: KR2a0002_krp_117-bkkpn9}
   - {type: 'kr:newline', offset: 401, content: '
@@ -153,6 +155,7 @@ markers:
       ', id: KR2a0002_krp_117-bkkkrnewl31}
   - {type: line-break, offset: 514, content: '', id: KR2a0002_WYG_117-2b05}
   - {type: punctuation, offset: 525, content: (, id: KR2a0002_krp_117-bkkpn16}
+  - {type: voice, offset: 525, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 528, content: /, id: KR2a0002_krp_117-bkkpn17}
   - {type: punctuation, offset: 531, content: ), id: KR2a0002_krp_117-bkkpn18}
   - {type: 'kr:newline', offset: 539, content: '
@@ -164,6 +167,7 @@ markers:
       ', id: KR2a0002_krp_117-bkkkrnewl33}
   - {type: line-break, offset: 560, content: '', id: KR2a0002_WYG_117-2b07}
   - {type: punctuation, offset: 580, content: (, id: KR2a0002_krp_117-bkkpn19}
+  - {type: voice, offset: 580, length: 17, name: note, id: n4}
   - {type: punctuation, offset: 581, content: /, id: KR2a0002_krp_117-bkkpn20}
   - {type: punctuation, offset: 582, content: ), id: KR2a0002_krp_117-bkkpn21}
   - {type: 'kr:newline', offset: 582, content: '
@@ -336,4 +340,4 @@ markers:
 
       ', id: KR2a0002_krp_117-bkkkrnewl71}
   back: []
-hash: sha256:6e56507ca14a88a700b2985e55ec90e7bfd4c74e0e447ce9c5a75f3dbf91297f
+hash: sha256:dfcdebfc7745839e083f44cd15ea135339311588b8aa095e7e4b27831024eb86
